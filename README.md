@@ -1,4 +1,4 @@
-# flutter_hive_todo_app
+# CheckMate_App
 
 A new Flutter project.
 
